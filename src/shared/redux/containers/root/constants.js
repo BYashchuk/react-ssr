@@ -1,0 +1,3 @@
+export const SEARCH_FILMS = '[SEARCH_FILMS]'
+export const SHOW_DESCRIPTION = '[SHOW_DESCRIPTION]'
+export const SHOW_ALL_FILMS = '[SHOW_ALL_FILMS]'
